@@ -9,16 +9,7 @@ if __name__ == "__main__":
     # path to zip-file with eutl data
     fn_source = "./eutl_2023.zip"
 
-
-
-
-
-
-
-
-
-
-    x = Rene + Adela;
+    x = 'Rene' + 'Adela'
 
 
     dal = DataAccessLayer(**connectionSettings)
